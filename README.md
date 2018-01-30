@@ -1,3 +1,3 @@
 # continuum
 
-##Product
+##Super Product
